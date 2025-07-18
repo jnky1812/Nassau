@@ -2135,3 +2135,76 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.07.18-04.27.14:282][ 98]LogInterchangeEngine: [Pending] Importing - Operation completed.
 [2025.07.18-04.27.14:282][ 98]LogInterchangeEngine: [Success] Import Done
 [2025.07.18-04.27.17:405][108]AssetReimport: Reimported asset Stone_Icon from D:/UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.png.
+[2025.07.18-04.28.47:545][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.07.18-04.28.47:552][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-04.28.47:604][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Icons/Inventory/GoldCoin_Icon] ([1] browsable assets)...
+[2025.07.18-04.28.47:604][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Icons/Inventory/GoldCoin_Icon]
+[2025.07.18-04.28.47:604][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/Inventory/GoldCoin_Icon" FILE="../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/GoldCoin_Icon.uasset" SILENT=true
+[2025.07.18-04.28.47:615][693]LogSavePackage: Moving output files for package: /Game/UI/Icons/Inventory/GoldCoin_Icon
+[2025.07.18-04.28.47:616][693]LogSavePackage: Moving '../../../../../../UnrealEngine/PixelPirates/Nassau/Saved/GoldCoin_IconFD98931B4A292C308DEF739B841A0A5D.tmp' to '../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/GoldCoin_Icon.uasset'
+[2025.07.18-04.28.47:618][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Icons/Inventory/Log_Icon] ([1] browsable assets)...
+[2025.07.18-04.28.47:622][693]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Icons/Inventory/Log_Icon.Log_Icon]
+[2025.07.18-04.28.47:622][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Icons/Inventory/Log_Icon]
+[2025.07.18-04.28.47:622][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/Inventory/Log_Icon" FILE="../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Log_Icon.uasset" SILENT=true
+[2025.07.18-04.28.47:633][693]LogSavePackage: Moving output files for package: /Game/UI/Icons/Inventory/Log_Icon
+[2025.07.18-04.28.47:633][693]LogSavePackage: Moving '../../../../../../UnrealEngine/PixelPirates/Nassau/Saved/Log_Icon6064D58C417504FA0B2CF5B22ACADE54.tmp' to '../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Log_Icon.uasset'
+[2025.07.18-04.28.47:635][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Icons/Inventory/Stone_Icon] ([1] browsable assets)...
+[2025.07.18-04.28.47:638][693]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Icons/Inventory/Stone_Icon.Stone_Icon]
+[2025.07.18-04.28.47:638][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Icons/Inventory/Stone_Icon]
+[2025.07.18-04.28.47:638][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/Inventory/Stone_Icon" FILE="../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.uasset" SILENT=true
+[2025.07.18-04.28.47:673][693]LogSavePackage: Moving output files for package: /Game/UI/Icons/Inventory/Stone_Icon
+[2025.07.18-04.28.47:673][693]LogSavePackage: Moving '../../../../../../UnrealEngine/PixelPirates/Nassau/Saved/Stone_IconE3F0D5A8413F0D1E10AFA3AF51081A3E.tmp' to '../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.uasset'
+[2025.07.18-04.28.47:688][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.106 ms (total: 2.95 sec)
+[2025.07.18-04.28.47:754][693]LogContentValidation: Display: Starting to validate 3 assets
+[2025.07.18-04.28.47:754][693]LogContentValidation: Enabled validators:
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-04.28.47:754][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-04.28.47:754][693]AssetCheck: /Game/UI/Icons/Inventory/GoldCoin_Icon Validating asset
+[2025.07.18-04.28.47:754][693]AssetCheck: /Game/UI/Icons/Inventory/Log_Icon Validating asset
+[2025.07.18-04.28.47:754][693]AssetCheck: /Game/UI/Icons/Inventory/Stone_Icon Validating asset
+[2025.07.18-04.28.47:775][693]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealEngine/PixelPirates/Nassau/Saved/SourceControl/UncontrolledChangelists.json
+[2025.07.18-04.28.55:081][266]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/Skull_Icon.Skull_Icon
+[2025.07.18-04.28.56:758][266]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.07.18-04.28.56:768][266]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.07.18-04.28.56:768][266]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.07.18-04.28.56:768][266]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.07.18-04.29.00:156][445]LogSlate: Window 'Skull_Icon' being destroyed
+[2025.07.18-04.29.01:565][524]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/Log_Icon.Log_Icon
+[2025.07.18-04.29.04:225][639]LogSlate: Window 'Log_Icon' being destroyed
+[2025.07.18-04.29.05:728][732]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/GoldCoin_Icon.GoldCoin_Icon
+[2025.07.18-04.29.09:236][906]LogSlate: Window 'GoldCoin_Icon' being destroyed
+[2025.07.18-04.29.10:877][  9]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/Stone_Icon.Stone_Icon
+[2025.07.18-04.29.15:008][216]LogSlate: Window 'Stone_Icon' being destroyed
+[2025.07.18-04.29.30:274][501]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/Stone_Icon.Stone_Icon
+[2025.07.18-04.29.39:160][981]LogSlate: Window 'Stone_Icon' being destroyed
+[2025.07.18-04.30.44:508][277]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5535.022949
+[2025.07.18-04.30.45:507][280]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.07.18-04.30.45:507][280]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5535.689453, Update Interval: 336.660675
+[2025.07.18-04.30.54:562][307]LogInterchangeEngine: [Pending] Importing
+[2025.07.18-04.30.54:564][307]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.07.18-04.30.54:567][307]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.07.18-04.30.54:568][307]LogInterchangeEngine: [Success] Import Done
+[2025.07.18-04.30.54:571][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.07.18-04.30.54:797][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/Icons/Inventory/Stone_Icon] ([1] browsable assets)...
+[2025.07.18-04.30.54:807][307]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/Icons/Inventory/Stone_Icon.Stone_Icon]
+[2025.07.18-04.30.54:807][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Icons/Inventory/Stone_Icon]
+[2025.07.18-04.30.54:807][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Icons/Inventory/Stone_Icon" FILE="../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.uasset" SILENT=true
+[2025.07.18-04.30.54:820][307]LogSavePackage: Moving output files for package: /Game/UI/Icons/Inventory/Stone_Icon
+[2025.07.18-04.30.54:820][307]LogSavePackage: Moving '../../../../../../UnrealEngine/PixelPirates/Nassau/Saved/Stone_Icon144D5C7A488A0082A52A518B9954E7BF.tmp' to '../../../../../../UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.uasset'
+[2025.07.18-04.30.54:839][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.526 ms (total: 3.22 sec)
+[2025.07.18-04.30.54:942][308]LogContentValidation: Display: Starting to validate 1 assets
+[2025.07.18-04.30.54:943][308]LogContentValidation: Enabled validators:
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.07.18-04.30.54:943][308]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.07.18-04.30.54:943][308]AssetCheck: /Game/UI/Icons/Inventory/Stone_Icon Validating asset
+[2025.07.18-04.30.57:874][317]AssetReimport: Reimported asset Stone_Icon from D:/UnrealEngine/PixelPirates/Nassau/Content/UI/Icons/Inventory/Stone_Icon.png.
+[2025.07.18-04.30.59:533][322]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/UI/Icons/Inventory/Stone_Icon.Stone_Icon
+[2025.07.18-04.31.02:491][424]LogSlate: Window 'Stone_Icon' being destroyed
